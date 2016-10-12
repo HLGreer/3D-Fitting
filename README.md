@@ -7,6 +7,6 @@ backsub4x4.m : Performs back substitution on a 4x4 Matrix.
 
 planefit.m : Fits a data set to a plane using Least Squares Regression. Returns the error metric.
 
-Originally produced for CISC 271, Scientific Computing, at Queen's University, Canada. Algorithms adapted from Class Notes for CISC 271, by
-Dr. Randy Ellis. Implementation by Hannah Greer, Winter 2016. 
+Originally produced for CISC 271, Scientific Computing, at Queen's University, Canada. Algorithms adapted from Class Notes for 
+CISC 271, Winter 2016, by Dr. Randy Ellis. Implementation by Hannah Greer, Winter 2016. 
 Since adapted for other personal usage. 
