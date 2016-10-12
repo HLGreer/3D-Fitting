@@ -1,5 +1,6 @@
 function [g,p,RMS] = spherefit(data)
-% Hannah Greer - 10136620. Produced for CISC 271 - Winter 2016.
+% Hannah Greer
+% Produced for CISC 271 - Winter 2016.
 % This function fits a set of data to a sphere using least squares.
 % This function relies on helper functions: 
 % qrDataPrep() and backSub4x4
